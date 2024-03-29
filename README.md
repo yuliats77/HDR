@@ -46,3 +46,6 @@
 ```sh
 pip install numpy opencv-python matplotlib
 
+
+* [Ссылка на ноутбук](https://github.com/yuliats77/HDR/blob/main/julia_diploma/hdr.ipynb)
+
